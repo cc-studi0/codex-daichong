@@ -1,4 +1,4 @@
-# 【实用了半年】Codex 充值指南：我给自己的 ChatGPT 账号升到 Plus / Pro 的全过程（2026 版）
+# 【亲测可用】Codex 充值指南：我给自己的 ChatGPT 账号升到 Plus / Pro 的全过程（2026 版）
 
 ![更新](https://img.shields.io/badge/更新-2026年10月-success) ![类型](https://img.shields.io/badge/类型-亲历记录-blue) ![许可](https://img.shields.io/badge/许可-MIT-green)
 
