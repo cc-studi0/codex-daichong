@@ -48,7 +48,7 @@
 
 一句话：**Codex 没有单独会员，你充的钱其实是给 ChatGPT 账号升档。** 下面把这句拆开。
 
-**我现在实际在用的方式**：账号始终是自己的，档位跑 [Plus宇宙](https://www.pluscosmo.com/codex) 的人民币直充，档位和当日价看他们的 [实时套餐页](https://www.pluscosmo.com/shop)。留下来是因为三点对我最要紧：全程不需要账号密码；订单在站内可查，付完就有订单号；续费前后都能拿订单号回账号里核对到期日。第一次跟着 [图文教程](https://www.pluscosmo.com/guide) 走，四步加起来不到十分钟。
+**我现在实际在用的方式**：账号始终是自己的，档位跑 [Plus宇宙](https://www.pluscosmo.com/shop) 的人民币直充，档位和当日价看他们的 [实时套餐页](https://www.pluscosmo.com/shop)。留下来是因为三点对我最要紧：全程不需要账号密码；订单在站内可查，付完就有订单号；续费前后都能拿订单号回账号里核对到期日。第一次跟着 [图文教程](https://www.pluscosmo.com/guide) 走，四步加起来不到十分钟。
 
 ## 二、Codex 充值到底充的是什么
 
